@@ -18,7 +18,8 @@ npm install
 ```
 3. Create in MongoDB db = `filesSite` and collection = `files`
 4. Fill env.example and rename to .env
-5. Start the server:
+5. Create `files` folder
+6. Start the server:
 ```
 node server.js
 ```
