@@ -27,8 +27,8 @@ node server.js
 ### 🖼 Screenshots
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/Stepashka20/file-uploader/assets/40739871/f482ec1c-c3da-429d-a509-54a156f75327.png" alt="Screenshot 1" style="width: 49%;">
-    <img src="https://github.com/Stepashka20/file-uploader/assets/40739871/5f081c50-0519-455b-8c7b-d190e400f835.png" alt="Screenshot 2" style="width: 49%;">
+    <img src="https://i.ibb.co/NrqRg3v/image.png" alt="Screenshot 1" style="width: 49%;">
+    <img src="https://github.com/Stepashka20/file-uploader/assets/40739871/0f54adca-3f63-4fa3-a336-3f67e4f355c6.png" alt="Screenshot 2" style="width: 49%;">
 </div>
 
 ## License
